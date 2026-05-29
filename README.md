@@ -13,3 +13,11 @@
 12. https://github.com/segmentati0nf4ult/linux-pam-backdoor
 13. https://sinhviencntt.net/ceh-tieng-viet-module-1-introduction-to-ethical-hacking-phan-1-697?utm_source=chatgpt.com
 14. https://letsdefend.io/
+15. https://pwnable.tw/
+16. https://courses.redteamleaders.com/catalog
+17. https://research.openanalysis.net/
+18. https://pentesterlab.com/
+19. https://ctftime.org/
+20. https://www.exploit-db.com/
+21. https://ncybersecurity.com/
+22. https://app.cybrary.it/
